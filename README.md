@@ -1,2 +1,14 @@
 # infoyaxing-archive
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
